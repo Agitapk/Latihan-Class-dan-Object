@@ -1,0 +1,7 @@
+D:\Matkul\Pemrogaman\GIT\LatihanClassDanObject\LatihanClassDanObject\obj\Debug\LatihanClassDanObject.csprojAssemblyReference.cache
+D:\Matkul\Pemrogaman\GIT\LatihanClassDanObject\LatihanClassDanObject\obj\Debug\LatihanClassDanObject.csproj.CoreCompileInputs.cache
+D:\Matkul\Pemrogaman\GIT\LatihanClassDanObject\LatihanClassDanObject\bin\Debug\LatihanClassDanObject.exe.config
+D:\Matkul\Pemrogaman\GIT\LatihanClassDanObject\LatihanClassDanObject\bin\Debug\LatihanClassDanObject.exe
+D:\Matkul\Pemrogaman\GIT\LatihanClassDanObject\LatihanClassDanObject\bin\Debug\LatihanClassDanObject.pdb
+D:\Matkul\Pemrogaman\GIT\LatihanClassDanObject\LatihanClassDanObject\obj\Debug\LatihanClassDanObject.exe
+D:\Matkul\Pemrogaman\GIT\LatihanClassDanObject\LatihanClassDanObject\obj\Debug\LatihanClassDanObject.pdb
